@@ -42,10 +42,3 @@
 - 9.はみがき(歯磨きをするジェスチャー、口をすすぐ)
 
 ---
-## GitHub
-git add .
-git commit -m ""
-git push
-
----
-## Note -> X
